@@ -2,7 +2,7 @@
 
 Repositório criado para o Desafio de Projeto com prof [@falvojr](https://github.com/falvojr)
 
-Neste repositório serão incluídos os materiais de apoio, exercícios e projetos do Bootcamp TQI Fullstack Developer realizado em parceria com a DIO.
+Neste repositório serão incluídos os materiais de apoio, exercícios e projetos do **Bootcamp TQI Fullstack Developer** realizado em parceria com a DIO.
 
 
 ## Links Úteis
