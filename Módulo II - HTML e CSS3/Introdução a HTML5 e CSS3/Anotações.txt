@@ -1,0 +1,66 @@
+==========
+CSS 3
+==========
+Padding e Margin
+.post {
+	padding: 15px 10px;
+}
+NO EXEMPLO ACIMA, FORAM INCLUÍDOS 2 VALORES.
+ELES REPRESENTAM OS VALORES PARA OS EIXOS Y E X, RESPECTIVAMENTE.
+---------------------------------------------------------
+.post {
+	padding: 15px 10px 5px 0;
+}
+NO EXEMPLO ACIMA, FORAM INCLUÍDOS 4 VALORES.
+ELES REPRESENTAM OS VALORES PARA OS 4 LADOS DO PADDING.
+SEMPRE SEGUINDO A ORDEM DOS LADOS: CIMA, DIREITO, INFERIOR, ESQUERDO.
+
+**CASO INCLUA O VALOR "0", NÃO HÁ NECESSIDADE DE INFORMAR UNIDADE (px).
+
+-----------------------------------------------
+.post {
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 0;
+}
+PODEMOS UTILIZAR DESTA FORMA QUANDO QUEREMOS ESPECIFICAR EXATAMENTE
+O TAMANHO DE CADA LADO, COMO POR EXEMPLO QUANDO APENAS UM LADO FOR DE TAMANHO DIFERENTE.
+
+===============
+BORDER
+===============
+LARGURA: PIXELS, CENTÍMETROS, MILÍMETROS...
+COR: BLUE, #0000FF...
+ESTILO: SÓLIDA, PONTILHADA, TRACEJADA...
+
+.post {
+  border: 3px solid blue;
+  border-top: 2px dotted green;
+  border-right: 4px dashed pink;
+}
+-------------------------------
+.post {
+  border-top: 2px dotted green;
+  border-right: 4px dashed pink;
+  border-bottom: 1px solid purple;
+  border-left: 4px dotted cyan;
+}
+---------------------------------
+TAMBEM PODEMOS USAR PROPRIEDADES ESPECÍFICAS PARA CADA ASPECTO:
+.post {
+  border-width: 3px; #largura
+  border-color: green; #cor
+  border-style: solid; #contorno
+}
+================
+BORDER-RADIUS
+================
+SERVE PARA ARREDONDAR OS CANTOS DE UM ELEMENTO.
+PODEMOS UTILIZAR VÁRIAS MEDIDAS, MAS AS MEDIDAS MAIS UTILIZADAS SÃO:
+PIXEL E PORCENTAGEM.
+
+border-radius: 10px;
+border-radius: 50%;
+border-radius: 10% 20%;
+border-radius: 10% 20% 15% 22%;
