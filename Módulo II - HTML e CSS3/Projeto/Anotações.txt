@@ -1,0 +1,5 @@
+TRANSITION
+------------------------------
+NOS PERMITE DEFINIR A TRANSIÇÃO ENTRE DOIS ESTADOS DE UM ELEMENTO.
+**IMPORTANTE SETAR NO ESTADO PRINCIPAL**
+--------------------------------
