@@ -1,5 +1,8 @@
 body{
     background: #0d1321;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 800px;
+    margin: auto;
 }
 
 .photo {
@@ -47,10 +50,12 @@ a {
     margin-bottom: 15px;
     text-transform: capitalize;
     color: #e8eddf;
+    text-align: justify;
 }
 
 .post_img {
     margin-bottom: 15px;
+    max-width: 100%;
 }
 
 .footer {
