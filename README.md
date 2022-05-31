@@ -7,5 +7,6 @@ Neste repositório serão incluídos os materiais de apoio, exercícios e projet
 
 ### Links Úteis
  - [Site DIO](https://www.dio.me)
+ - [Site TQI](https://www.tqi.com.br)
  - [Bootcamp TQI Fullstack Developer](https://web.dio.me/track/tqi-fullstack-developer)
  - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
